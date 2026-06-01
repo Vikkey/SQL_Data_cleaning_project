@@ -1,2 +1,2 @@
 # SQL_Data_cleaning_project
-SQL Data Cleaning Project – Cleaned and transformed a raw Kaggle dataset using SQL to prepare it for EDA and visualization. Performed data normalization, removed duplicates, handled missing values, corrected formatting issues, eliminated unwanted characters, standardised data, and improved overall data quality and consistency for analysis.
+SQL Data Cleaning Project – Cleaned and transformed a real world layoff dataset (2020–2023) sourced from Kaggle using SQL. Performed data normalization, standardization, duplicate removal, null value handling, unwanted character cleanup, formatting corrections, and data stabilization to improve accuracy and consistency. Prepared the dataset for exploratory data analysis (EDA), reporting, and visualization.
